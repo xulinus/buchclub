@@ -3,7 +3,7 @@
 | Löpnummer | Författare | Titel | Vald av |
 | --------- | ---------- | ----- | ------- |
 | 1. | Marlen Haushofer | Väggen | Herr Angst |
-| 2. | Han Kang | Vegetarianen | Herr Gründer | Herr Angst |
+| 2. | Han Kang | Vegetarianen | Herr Angst |
 | 3. | James Joyce | Ett porträtt av författaren som ung | Herr Angst |
 | 4. | Katarina Wennestam | Döda kvinnor gråter inte | Demokrati |
 | 5. | Slavoj Žižek | Too Late to Awaken: What Lies Ahead When There is no Future | Demokrati |
