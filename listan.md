@@ -8,8 +8,8 @@
 | 5. | Slavoj Žižek | Too Late to Awaken: What Lies Ahead When There is no Future | Demokrati |
 | 6. | Édouard Louis | Göra sig kvitt Eddy Bellegueule | Demokrati |
 | 7. | Heinrich Böll | Katharina Blums förlorade heder | Herr Gründer |
-| 9. | Elfriede Jelinek | De utestängda | Herr Gründer |
-| 8. | Ottessa Moshfegh | Ett år av vila och avkoppling | Herr Gründer |
+| 8. | Elfriede Jelinek | De utestängda | Herr Gründer |
+| 9. | Ottessa Moshfegh | Ett år av vila och avkoppling | Herr Gründer |
 | 10. | Herman Hesse | Stäppvargen | Herr Gründer |
 | 11. | Mattias Timander | Din vilja sitter i skogen | RL |
 | 12. | Michel Houellebecq | Serotonin | JB |
