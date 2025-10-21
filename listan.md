@@ -4,7 +4,7 @@
 | --------- | ---------- | ----- | ------- |
 | 1. | Marlen Haushofer | Väggen | Herr Gründer |
 | 2. | Han Kang | Vegetarianen | Herr Gründer | Herr Gründer |
-| 3. | James Joyce | Ett porträtt av författaren som ung | 
+| 3. | James Joyce | Ett porträtt av författaren som ung | Herr Gründer |
 | 4. | Katarina Wennestam | Döda kvinnor gråter inte | Demokrati |
 | 5. | Slavoj Žižek | Too Late to Awaken: What Lies Ahead When There is no Future | Demokrati |
 | 6. | Édouard Louis | Göra sig kvitt Eddy Bellegueule | Demokrati |
