@@ -16,4 +16,4 @@
 | 12. | Michel Houellebecq | Serotonin | JB |
 | 13. | Andrev Walden | Jävla Karlar | CES |
 | 14. | Karolina Ramqvist | Den första boken | AF |
-| 15. | | | AK |
+| 15. | László Krasznahorkai | Satantango | AK |
