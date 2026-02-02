@@ -18,3 +18,4 @@
 | 14. | Karolina Ramqvist | Den första boken | AF |
 | 15. | László Krasznahorkai | Satantango | AK |
 | 16. | Lisa Ridzén | Tranorna flyger söderut | VB |
+| 17. | Elsa Morante | Arturos ö (L'isola di Arturo) | FS |
