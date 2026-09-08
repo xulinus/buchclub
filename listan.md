@@ -20,3 +20,4 @@
 | 16. | Lisa Ridzén | Tranorna flyger söderut | VB |
 | 17. | Elsa Morante | Arturos ö (L'isola di Arturo) | FS |
 | 18. | Jacqueline Harpman | Jag som aldrig känt en man (Moi qui n'ai pas connu les hommes) | LKX |
+| 19. | Michail Bulgakov | Mästaren och Margarita (Мастер и Маргарита) | PK |
